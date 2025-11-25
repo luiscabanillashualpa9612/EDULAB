@@ -1,20 +1,19 @@
 # EDULAB  
-Software gratuito para análisis matricial de vigas continuas con apoyo de inteligencia artificial.
+Software gratuito para análisis matricial de vigas.
 
 ---
 
 ## 📌 Descripción
 **EDULAB** es una herramienta diseñada para estudiantes, docentes e ingenieros que desean comprender de manera práctica el análisis matricial aplicado a vigas continuas.  
-El software combina el método matricial tradicional con asistencia de IA para guiar al usuario paso a paso.
+El software combina el método matricial tradicional con una interfaz paso a paso.
 
 ---
 
 ## 🚀 Características principales
 - Análisis matricial de vigas continuas.  
-- Asistente con inteligencia artificial integrado.  
 - Explicaciones de cada paso del análisis.  
 - Generación de modelos guiada.  
-- Resultados claros: diagramas, esfuerzos y deformaciones.  
+- Resultados claros: diagramas y esfuerzos.  
 - No requiere instalación: ejecutable (.exe) listo para usar.
 
 ---
