@@ -21,7 +21,7 @@ El software combina el método matricial tradicional con asistencia de IA para g
 
 ## 📦 Descarga
 👉 **Versión más reciente:**  
-[EDULAB v1.0](./EDULAB_v1.0.zip)
+[EDULAB v1.0](./eduLab.zip)
 
 ---
 
