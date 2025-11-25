@@ -19,12 +19,6 @@ El software combina el método matricial tradicional con asistencia de IA para g
 
 ---
 
-## 📦 Descarga
-👉 **Versión más reciente:**  
-[EDULAB v1.0](./eduLab.zip)
-
----
-
 ## 🛠 Requisitos
 - Windows 10 o superior  
 - No necesita instalación  
